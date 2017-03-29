@@ -1,6 +1,6 @@
 # Responsibility
 
-Mail to: s015348@aliyun.com
+Mail to: shiying1@jd.com
 
 # Chaincode
 
