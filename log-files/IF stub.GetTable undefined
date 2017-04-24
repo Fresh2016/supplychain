@@ -1,0 +1,695 @@
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/sourceproduct
+chaincode/input/src/github.com/sourceproduct/sourceproduct.go:66: cannot use new(SourceProductChainCode) (type *SourceProductChainCode) as type shim.Chaincode in argument to shim.Start:
+	*SourceProductChainCode does not implement shim.Chaincode (wrong type for Init method)
+		have Init(shim.ChaincodeStubInterface, string, []string) ([]byte, error)
+		want Init(shim.ChaincodeStubInterface) peer.Response
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:71: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:99: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:101: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:111: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:129: stub.GetTable undefined (type shim.ChaincodeStubInterface has no field or method GetTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:131: stub.CreateTable undefined (type shim.ChaincodeStubInterface has no field or method CreateTable)
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: undefined: shim.ColumnDefinition
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:281: undefined: shim.Row
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:598: main redeclared in this block
+	previous declaration at chaincode/input/src/github.com/sourceproduct/sourceproduct.go:65
+chaincode/input/src/github.com/sourceproduct/sourceproductimprove.go:141: too many errors
+"
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Failed to send Proposal or receive valid ProposalResponse from peers.
+[31merror[39m: [invoke-chaincode]: Failed to send Proposal or receive valid ProposalResponse from peers.
+[31merror[39m: [invoke-chaincode]: Failed to send Proposal or receive valid ProposalResponse from peers.
+[31merror[39m: [invoke-chaincode]: Failed to send Proposal or receive valid ProposalResponse from peers.
+[31merror[39m: [invoke-chaincode]: Bad proposal responses. null
+[31merror[39m: [invoke-chaincode]: Bad proposal responses. null
+[31merror[39m: [invoke-chaincode]: Bad proposal responses. null
+[31merror[39m: [invoke-chaincode]: Bad proposal responses. null
+[31merror[39m: [invoke-chaincode]: Error: Bad proposal responses. null
+    at Object.throwError (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\util.js:204:8)
+    at hfc.newDefaultKeyValueStore.then.then.then (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\invoke-transaction.js:169:9)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+[31merror[39m: [invoke-chaincode]: Error: Bad proposal responses. null
+    at Object.throwError (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\util.js:204:8)
+    at hfc.newDefaultKeyValueStore.then.then.then (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\invoke-transaction.js:169:9)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+[31merror[39m: [invoke-chaincode]: Error: Bad proposal responses. null
+    at Object.throwError (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\util.js:204:8)
+    at hfc.newDefaultKeyValueStore.then.then.then (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\invoke-transaction.js:169:9)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+[31merror[39m: [invoke-chaincode]: Error: Bad proposal responses. null
+    at Object.throwError (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\util.js:204:8)
+    at hfc.newDefaultKeyValueStore.then.then.then (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\invoke-transaction.js:169:9)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+Return without executing installing and instantiating
