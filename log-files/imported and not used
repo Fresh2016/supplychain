@@ -1,0 +1,201 @@
+debug[39m: [Peer.js]: Peer.sendProposal - Start
+[34mdebug[39m: [Peer.js]: Peer.sendProposal - Start
+[34mdebug[39m: [Peer.js]: Peer.sendProposal - Start
+[34mdebug[39m: [Peer.js]: Peer.sendProposal - Start
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:7051". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Peer.js]: GRPC client got an error response from the peer "grpc://202.77.131.29:8056". Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:434:17
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[31merror[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+    at Object.callback (D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\fabric-client\lib\Peer.js:192:13)
+    at D:\eclipse-workspace\jcloud-blockchain-gogs\node_modules\grpc\src\node\src\client.js:437:14
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is rejected: Error: Error: Error starting container: Failed to generate platform-specific docker build: Error returned from build: 2 "# github.com/trace
+chaincode/input/src/github.com/trace/table_1.0api.go:31: imported and not used: "bytes"
+"
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Instantiate transaction proposal was bad
+[31merror[39m: [invoke-chaincode]: Failed to send Proposal or receive valid ProposalResponse from peers.
+[31merror[39m: [invoke-chaincode]: Failed to send Proposal or receive valid ProposalResponse from peers.
+[31merror[39m: [invoke-chaincode]: Failed to send Proposal or receive valid ProposalResponse from peers.
+[31merror[39m: [invoke-chaincode]: Failed to send Proposal or receive valid ProposalResponse from peers.
+[31merror[39m: [invoke-chaincode]: Bad proposal responses. null
+[31merror[39m: [invoke-chaincode]: Bad proposal responses. null
+[31merror[39m: [invoke-chaincode]: Bad proposal responses. null
+[31merror[39m: [invoke-chaincode]: Bad proposal responses. null
+[31merror[39m: [invoke-chaincode]: Error: Bad proposal responses. null
+    at Object.throwError (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\util.js:204:8)
+    at hfc.newDefaultKeyValueStore.then.then.then (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\invoke-transaction.js:169:9)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+[31merror[39m: [invoke-chaincode]: Error: Bad proposal responses. null
+    at Object.throwError (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\util.js:204:8)
+    at hfc.newDefaultKeyValueStore.then.then.then (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\invoke-transaction.js:169:9)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+[31merror[39m: [invoke-chaincode]: Error: Bad proposal responses. null
+    at Object.throwError (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\util.js:204:8)
+    at hfc.newDefaultKeyValueStore.then.then.then (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\invoke-transaction.js:169:9)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+[31merror[39m: [invoke-chaincode]: Error: Bad proposal responses. null
+    at Object.throwError (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\util.js:204:8)
+    at hfc.newDefaultKeyValueStore.then.then.then (D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\invoke-transaction.js:169:9)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+Quit with err: Error: Bad proposal responses. null
