@@ -47,7 +47,6 @@ import (
 //////////////////////////////////////////////////////////////////////////////////////////////////
 var Objects = []string{"SkuTraceRecordObj", "SkuAuthenticationTraceRecordObj", "SkuBaseInfoObj", "SkuTransactionObj", "CertificationAccountInfoObj", "AccountInfoObj"}
 
-
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 func GetNumberOfKeys(tname string) int {
 	ObjectMap := map[string]int{
@@ -97,54 +96,6 @@ func UpdateObject(stub shim.ChaincodeStubInterface, objectType string, keys []st
 
 	return nil
 
-}
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Retrieve the object based on the key and simply delete it
-//
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
-func DeleteObject(stub shim.ChaincodeStubInterface, objectType string, keys []string) error {
-
-        // Check how many keys
-
-        err := VerifyAtLeastOneKeyIsPresent(objectType, keys )
-        if err != nil {
-                return err
-        }
-
-	// Convert keys to  compound key
-	compositeKey, _ := stub.CreateCompositeKey(objectType, keys)
-
-	// Remove object from the State Database
-	err = stub.DelState(compositeKey)
-	if err != nil {
-		fmt.Println("DeleteObject() : Error deleting Object into State Database %s", err)
-		return err
-	}
-	fmt.Println("DeleteObject() : ", "Object : " , objectType, " Key : ", compositeKey)
-
-	return nil
-}
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Delete all objects of ObjectType
-//
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
-func DeleteAllObjects(stub shim.ChaincodeStubInterface, objectType string) error {
-
-
-        // Convert keys to  compound key
-        compositeKey, _ := stub.CreateCompositeKey(objectType, []string{""})
-
-        // Remove object from the State Database
-        err := stub.DelState(compositeKey)
-        if err != nil {
-                fmt.Println("DeleteAllObjects() : Error deleting all Object into State Database %s", err)
-		return err
-        }
-        fmt.Println("DeleteObject() : ", "Object : " , objectType, " Key : ", compositeKey)
-
-        return nil
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -199,130 +150,6 @@ func QueryObject(stub shim.ChaincodeStubInterface, objectType string, keys []str
         return Avalbytes, nil
 }
 
-////////////////////////////////////////////////////////////////////////////
-// Query a User Object by Object Name and Key
-// This has to be a full key and should return only one unique object
-////////////////////////////////////////////////////////////////////////////
-func QueryObjectWithProcessingFunction(stub shim.ChaincodeStubInterface, objectType string, keys []string, fname func(shim.ChaincodeStubInterface, []byte, []string)(error)) ([]byte, error) {
-
-        // Check how many keys
-
-        err := VerifyAtLeastOneKeyIsPresent(objectType, keys )
-        if err != nil {
-                return nil, err
-        }
-
-	compoundKey, _ := stub.CreateCompositeKey(objectType, keys)
-	fmt.Println("QueryObject: Compound Key : ", compoundKey)
-
-	Avalbytes, err := stub.GetState(compoundKey)
-        if err != nil {
-                return nil, err
-        }
-
-        if Avalbytes == nil {
-                return nil,  fmt.Errorf("QueryObject: No Data Found for Compound Key : ", compoundKey)
-        }
-
-        // Perform Any additional processing of data
-        fmt.Println("fname() : Successful - Proceeding to fname" )
-
-        err = fname(stub, Avalbytes, keys)
-        if err != nil {
-                fmt.Println("QueryLedger() : Cannot execute  : ", fname)
-                jsonResp := "{\"fname() Error\":\" Cannot create Object for key " + compoundKey + "\"}"
-                return Avalbytes, errors.New(jsonResp)
-        }
-
-	return Avalbytes, nil
-}
-
-////////////////////////////////////////////////////////////////////////////
-// Get a List of Rows based on query criteria from the OBC
-// The getList Function
-////////////////////////////////////////////////////////////////////////////
-func GetKeyList(stub shim.ChaincodeStubInterface, args []string) (shim.StateQueryIteratorInterface, error) {
-
-        // Define partial key to query within objects namespace (objectType)
-	objectType := args[0]
-
-        // Check how many keys
-
-        err := VerifyAtLeastOneKeyIsPresent(objectType, args[1:] )
-        if err != nil {
-                return nil, err
-        }
-
-        // Execute the Query
-        // This will execute a key range query on all keys starting with the compound key
-        resultsIterator, err := stub.GetStateByPartialCompositeKey(objectType, args[1:])
-	//resultsIterator, err := stub.PartialCompositeKeyQuery(objectType, args[1:])
-
-        if err != nil {
-                return nil, err
-        }
-
-        defer resultsIterator.Close()
-
-        // Iterate through result set
-        var i int
-        for i = 0; resultsIterator.HasNext(); i++ {
-
-                // Retrieve the Key and Object
-                myCompositeKey , err := resultsIterator.Next()
-                if err != nil {
-                        return nil, err
-                }
-                fmt.Println("GetList() : my Value : ", myCompositeKey)
-	}
-        return resultsIterator, nil
-}
-
-///////////////////////////////////////////////////////////////////////////////////////////
-// GetQueryResultForQueryString executes the passed in query string.
-// Result set is built and returned as a byte array containing the JSON results.
-///////////////////////////////////////////////////////////////////////////////////////////
-func GetQueryResultForQueryString(stub shim.ChaincodeStubInterface, queryString string) ([]byte, error) {
-
-        fmt.Println("GetQueryResultForQueryString() : getQueryResultForQueryString queryString:\n%s\n", queryString)
-
-        resultsIterator, err := stub.GetQueryResult(queryString)
-        if err != nil {
-                return nil, err
-        }
-        defer resultsIterator.Close()
-
-        // buffer is a JSON array containing QueryRecords
-        var buffer bytes.Buffer
-        buffer.WriteString("[")
-
-        bArrayMemberAlreadyWritten := false
-        for resultsIterator.HasNext() {
-                queryResultKey, err := resultsIterator.Next()
-                if err != nil {
-                        return nil, err
-                }
-                // Add a comma before array members, suppress it for the first array member
-                if bArrayMemberAlreadyWritten == true {
-                        buffer.WriteString(",")
-                }
-                buffer.WriteString("{\"Key\":")
-                buffer.WriteString("\"")
-                buffer.WriteString(queryResultKey.Key)
-                buffer.WriteString("\"")
-
-                buffer.WriteString(", \"Record\":")
-                // Record is a JSON object, so we write as-is
-                buffer.WriteString(string(queryResultKey.Value))
-                buffer.WriteString("}")
-                bArrayMemberAlreadyWritten = true
-        }
-        buffer.WriteString("]")
-
-        fmt.Println("GetQueryResultForQueryString(): getQueryResultForQueryString queryResult:\n%s\n", buffer.String())
-
-        return buffer.Bytes(), nil
-}
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Retrieve a list of Objects from the Query

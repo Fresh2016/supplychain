@@ -1055,11 +1055,11 @@ func GetSkuAuthenticationRecordListByTraceCode(stub shim.ChaincodeStubInterface,
 	for i = 0; rs.HasNext(); i++ {
 
 		// We can process whichever return value is of interest
-		myKeyVal, err := rs.Next()
+		_, value, err := rs.Next()
 		if err != nil {
 			return shim.Success(nil)
 		}
-		bid, err := JSONtoSkuAuthenticationTraceRecordObj(myKeyVal.Value)
+		bid, err := JSONtoSkuAuthenticationTraceRecordObj(value)
 		if err != nil {
 			error_str := fmt.Sprintf("GetSkuAuthenticationRecordListByTraceCode() operation failed - Unmarshall Error. %s", err)
 			fmt.Println(error_str)
@@ -1117,11 +1117,11 @@ func GetSkuTraceRecordListByTraceCode(stub shim.ChaincodeStubInterface, args []s
 	for i = 0; rs.HasNext(); i++ {
 
 		// We can process whichever return value is of interest
-		myKeyVal, err := rs.Next()
+		_, value, err := rs.Next()
 		if err != nil {
 			return shim.Success(nil)
 		}
-		bid, err := JSONtoSkuTraceRecordObj(myKeyVal.Value)
+		bid, err := JSONtoSkuTraceRecordObj(value)
 		if err != nil {
 			error_str := fmt.Sprintf("GetSkuTraceRecordListByTraceCode() operation failed - Unmarshall Error. %s", err)
 			fmt.Println(error_str)
@@ -1142,7 +1142,6 @@ func GetSkuTraceRecordListByTraceCode(stub shim.ChaincodeStubInterface, args []s
 	return shim.Success(jsonRows)
 
 }
-
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 // Get List of SKU trade record for an TraceCode
@@ -1167,11 +1166,11 @@ func GetSkuTransactionListByTraceCode(stub shim.ChaincodeStubInterface, args []s
 	for i = 0; rs.HasNext(); i++ {
 
 		// We can process whichever return value is of interest
-		myKeyVal, err := rs.Next()
+		_, value, err := rs.Next()
 		if err != nil {
 			return shim.Success(nil)
 		}
-		bid, err := JSONtoSkuTransactionObj(myKeyVal.Value)
+		bid, err := JSONtoSkuTransactionObj(value)
 		if err != nil {
 			error_str := fmt.Sprintf("GetSkuTransactionListByTraceCode() operation failed - Unmarshall Error. %s", err)
 			fmt.Println(error_str)
