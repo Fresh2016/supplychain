@@ -1,0 +1,193 @@
+[32minfo[39m: Successfully constructed a winston logger with configurations error=console, warn=console, debug=console, info=console
+[32minfo[39m: Successfully constructed a winston logger with configurations error=console, warn=console, debug=console, info=console
+
+Testing operations of belowing:
+       install
+       instantiate
+
+
+***** TESTAPP: Start testing *****
+
+
+TESTAPP: create channel result "Skipped"
+TESTAPP: join channel result "Skipped"
+[32minfo[39m: [install-chaincode]: 
+
+***** Hyperledger fabric client: install chaincode *****
+[32minfo[39m: [install-chaincode]: 
+
+***** Hyperledger fabric client: install chaincode *****
+[32minfo[39m: [install-chaincode]: There are 2 organizations: org1,org2. Going to install chaincode one by one.
+[32minfo[39m: [install-chaincode]: There are 2 organizations: org1,org2. Going to install chaincode one by one.
+[34mdebug[39m: [execute-recursively]: Poping cell from ["org1","org2"]
+[34mdebug[39m: [execute-recursively]: Successfully pop "org1", now list becomes ["org2"]
+[32minfo[39m: [install-chaincode]: Calling peers in organization "org1" to install chaincode
+[32minfo[39m: [install-chaincode]: Calling peers in organization "org1" to install chaincode
+[34mdebug[39m: [crypto_ecdsa_aes]: Hash algorithm: SHA2, hash output size: 256
+[34mdebug[39m: [Chain.js]: Constructed Chain instance: name - mychannel, securityEnabled: true, TCert download batch size: 10, network mode: true
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7050
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:7051 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:7051 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7051
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:7056 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:7056 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7056
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7051
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore.js - constructor
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore -- getValue
+[32minfo[39m: [Client.js]: Failed to load user "admin" from local key value store
+[32minfo[39m: [Client.js]: Failed to load user "admin" from local key value store
+[34mdebug[39m: [Client.js]: Requested user "admin" not loaded from the state store on this Client instance: name - admin
+[34mdebug[39m: [crypto_ecdsa_aes]: Hash algorithm: SHA2, hash output size: 256
+[32minfo[39m: [FabricCAClientImpl.js]: Successfully constructed Fabric CA service client: endpoint - {"protocol":"http","hostname":"202.77.131.29","port":7054}
+[32minfo[39m: [FabricCAClientImpl.js]: Successfully constructed Fabric CA service client: endpoint - {"protocol":"http","hostname":"202.77.131.29","port":7054}
+[32minfo[39m: [crypto_ecdsa_aes]: This class requires a CryptoKeyStore to save keys, using the store: {"opts":{"path":"C:\\Users\\shiying1\\.hfc-key-store"}}
+[32minfo[39m: [crypto_ecdsa_aes]: This class requires a CryptoKeyStore to save keys, using the store: {"opts":{"path":"C:\\Users\\shiying1\\.hfc-key-store"}}
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore.js - constructor
+[34mdebug[39m: [crypto_ecdsa_aes]: _getKeyStore returning ks
+[34mdebug[39m: [crypto_ecdsa_aes]: generateKey, store.setValue
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param X: 60023365f642e3db79b507c28ca76a696409f61ad66fbfe841ba2d8e0d4a04f8
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param Y: 2d47118c9cbff5fb2eb4079dbb5fe575671af6b8f7f9e1bd657d28ea0f1b8501
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore -- setValue
+[34mdebug[39m: [install-chaincode]: Successfully enrolled user 'admin'
+[34mdebug[39m: [crypto_ecdsa_aes]: Hash algorithm: SHA2, hash output size: 256
+[34mdebug[39m: [msp.js]: const - start
+[32minfo[39m: [crypto_ecdsa_aes]: This class requires a CryptoKeyStore to save keys, using the store: {"opts":{"path":"C:\\Users\\shiying1\\.hfc-key-store"}}
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore.js - constructor
+[32minfo[39m: [crypto_ecdsa_aes]: This class requires a CryptoKeyStore to save keys, using the store: {"opts":{"path":"C:\\Users\\shiying1\\.hfc-key-store"}}
+[34mdebug[39m: [crypto_ecdsa_aes]: _getKeyStore returning ks
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param X: 60023365f642e3db79b507c28ca76a696409f61ad66fbfe841ba2d8e0d4a04f8
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param Y: 2d47118c9cbff5fb2eb4079dbb5fe575671af6b8f7f9e1bd657d28ea0f1b8501
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore -- setValue
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param X: 60023365f642e3db79b507c28ca76a696409f61ad66fbfe841ba2d8e0d4a04f8
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param Y: 2d47118c9cbff5fb2eb4079dbb5fe575671af6b8f7f9e1bd657d28ea0f1b8501
+[34mdebug[39m: [Client.js]: setUserContext, user: {"name":"admin","roles":null,"affiliation":"","enrollmentSecret":"","enrollment":{"signingIdentity":"d766f8751ad291522f1d57aa476d4369efd2785b0638a1f7c42d7f22e5a004af","identity":{"id":"testIdentity","certificate":"-----BEGIN CERTIFICATE-----\nMIIB3jCCAYSgAwIBAgIUPDwbZ8VUwp+oxj+5jnwFfcF6LhEwCgYIKoZIzj0EAwIw\nYDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh\nbiBGcmFuY2lzY28xETAPBgNVBAoTCHBlZXJPcmcxMREwDwYDVQQDEwhwZWVyT3Jn\nMTAeFw0xNzA0MjgwNjU1MDBaFw0xODAzMjcxNDU1MDBaMBAxDjAMBgNVBAMTBWFk\nbWluMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYAIzZfZC49t5tQfCjKdqaWQJ\n9hrWb7/oQbotjg1KBPgtRxGMnL/1+y60B527X+V1Zxr2uPf54b1lfSjqDxuFAaNs\nMGowDgYDVR0PAQH/BAQDAgIEMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFCrW9Yz8\nOx5bwUrm3jzdRpiLFdG6MCsGA1UdIwQkMCKAINils8rBuCH25LSHzq8f0jnNz8MQ\niUFQkIuQ8F6ReVVqMAoGCCqGSM49BAMCA0gAMEUCIQCx7FzJQGZv2cJf8ErnxM3m\nYemOf6SqSRMhQhzwNPnrBAIgDpdOy8yRAdAZOC4c2K/4GAUt0exV+uzwmo2qe/Hb\nT0U=\n-----END CERTIFICATE-----\n"}}}, skipPersistence: undefined
+[34mdebug[39m: [Client.js]: setUserContext begin promise to saveUserToStateStore
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param X: 60023365f642e3db79b507c28ca76a696409f61ad66fbfe841ba2d8e0d4a04f8
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param Y: 2d47118c9cbff5fb2eb4079dbb5fe575671af6b8f7f9e1bd657d28ea0f1b8501
+[34mdebug[39m: [Client.js]: saveUserToStateStore, userContext: {"name":"admin","roles":null,"affiliation":"","enrollmentSecret":"","enrollment":{"signingIdentity":"d766f8751ad291522f1d57aa476d4369efd2785b0638a1f7c42d7f22e5a004af","identity":{"id":"testIdentity","certificate":"-----BEGIN CERTIFICATE-----\nMIIB3jCCAYSgAwIBAgIUPDwbZ8VUwp+oxj+5jnwFfcF6LhEwCgYIKoZIzj0EAwIw\nYDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh\nbiBGcmFuY2lzY28xETAPBgNVBAoTCHBlZXJPcmcxMREwDwYDVQQDEwhwZWVyT3Jn\nMTAeFw0xNzA0MjgwNjU1MDBaFw0xODAzMjcxNDU1MDBaMBAxDjAMBgNVBAMTBWFk\nbWluMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYAIzZfZC49t5tQfCjKdqaWQJ\n9hrWb7/oQbotjg1KBPgtRxGMnL/1+y60B527X+V1Zxr2uPf54b1lfSjqDxuFAaNs\nMGowDgYDVR0PAQH/BAQDAgIEMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFCrW9Yz8\nOx5bwUrm3jzdRpiLFdG6MCsGA1UdIwQkMCKAINils8rBuCH25LSHzq8f0jnNz8MQ\niUFQkIuQ8F6ReVVqMAoGCCqGSM49BAMCA0gAMEUCIQCx7FzJQGZv2cJf8ErnxM3m\nYemOf6SqSRMhQhzwNPnrBAIgDpdOy8yRAdAZOC4c2K/4GAUt0exV+uzwmo2qe/Hb\nT0U=\n-----END CERTIFICATE-----\n"}}}
+[34mdebug[39m: [Client.js]: saveUserToStateStore, begin promise stateStore.setValue
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param X: 60023365f642e3db79b507c28ca76a696409f61ad66fbfe841ba2d8e0d4a04f8
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param Y: 2d47118c9cbff5fb2eb4079dbb5fe575671af6b8f7f9e1bd657d28ea0f1b8501
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore -- setValue
+[34mdebug[39m: [Client.js]: saveUserToStateStore, store.setValue, result = {"name":"admin","roles":null,"affiliation":"","enrollmentSecret":"","enrollment":{"signingIdentity":"d766f8751ad291522f1d57aa476d4369efd2785b0638a1f7c42d7f22e5a004af","identity":{"id":"testIdentity","certificate":"-----BEGIN CERTIFICATE-----\nMIIB3jCCAYSgAwIBAgIUPDwbZ8VUwp+oxj+5jnwFfcF6LhEwCgYIKoZIzj0EAwIw\nYDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh\nbiBGcmFuY2lzY28xETAPBgNVBAoTCHBlZXJPcmcxMREwDwYDVQQDEwhwZWVyT3Jn\nMTAeFw0xNzA0MjgwNjU1MDBaFw0xODAzMjcxNDU1MDBaMBAxDjAMBgNVBAMTBWFk\nbWluMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEYAIzZfZC49t5tQfCjKdqaWQJ\n9hrWb7/oQbotjg1KBPgtRxGMnL/1+y60B527X+V1Zxr2uPf54b1lfSjqDxuFAaNs\nMGowDgYDVR0PAQH/BAQDAgIEMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFCrW9Yz8\nOx5bwUrm3jzdRpiLFdG6MCsGA1UdIwQkMCKAINils8rBuCH25LSHzq8f0jnNz8MQ\niUFQkIuQ8F6ReVVqMAoGCCqGSM49BAMCA0gAMEUCIQCx7FzJQGZv2cJf8ErnxM3m\nYemOf6SqSRMhQhzwNPnrBAIgDpdOy8yRAdAZOC4c2K/4GAUt0exV+uzwmo2qe/Hb\nT0U=\n-----END CERTIFICATE-----\n"}}}
+[32minfo[39m: [install-chaincode]: Successfully enrolled user 'admin'
+[32minfo[39m: [install-chaincode]: Successfully enrolled user 'admin'
+[34mdebug[39m: [Chain.js]: buildTransactionID - start
+[34mdebug[39m: [Chain.js]: buildTransactionID - transaction_id e186792d358e4e5f920eeb8dcee2f6d6cca55a8dbd04e8b973925847241e6f0f
+[34mdebug[39m: [Chain.js]: getPeers - list size: 2.
+[34mdebug[39m: [Chain.js]: Chain.sendInstallProposal begin
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7051
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7051
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7056
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7051
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7056
+[34mdebug[39m: [Chain.js]: getPeers - list size: 2.
+[34mdebug[39m: [Chain.js]: Chain.sendInstallProposal ccSpec {"type":1,"chaincode_id":{"name":"trace3","path":"github.com/trace","version":"v0"}} 
+[34mdebug[39m: [Chain.js]: buildCurrentTimestamp - building
+[34mdebug[39m: [packager]: packager: chaincodePath: github.com/trace, chaincodeType: undefined, devmode: false
+[34mdebug[39m: [packager]: packager: type golang 
+[32minfo[39m: [packager/Golang.js]: packaging GOLANG from github.com/trace
+[32minfo[39m: [packager/Golang.js]: packaging GOLANG from github.com/trace
+[32minfo[39m: [packager/Golang.js]: Path to the chaincode project directory is D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\chaincode_repo\src\github.com\trace
+[32minfo[39m: [packager/Golang.js]: Path to the chaincode project directory is D:\eclipse-workspace\jcloud-blockchain-gogs\app\client\chaincode_repo\src\github.com\trace
+[34mdebug[39m: [packager/Golang.js]: adding entry name=src/github.com/trace/table_1.0api.go, fqp=D:/eclipse-workspace/jcloud-blockchain-gogs/app/client/chaincode_repo/src/github.com/trace/table_1.0api.go
+[34mdebug[39m: [packager/Golang.js]: adding entry name=src/github.com/trace/trace_chaincode.go, fqp=D:/eclipse-workspace/jcloud-blockchain-gogs/app/client/chaincode_repo/src/github.com/trace/trace_chaincode.go
+[34mdebug[39m: [Chain.js]: Chain.sendInstallProposal data �
+info[39m: [execute-recursively]: Organization org2 successfully Install Chaincode
+[32minfo[39m: [execute-recursively]: END of Install Chaincode.
+[32minfo[39m: [execute-recursively]: END of Install Chaincode.
+TESTAPP: install chaincode result {"status":"success"}
+[32minfo[39m: [invoke-chaincode]: 
+
+***** Hyperledger fabric client: instantiate chaincode *****
+[32minfo[39m: [invoke-chaincode]: 
+
+***** Hyperledger fabric client: instantiate chaincode *****
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:7051 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:7051 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:7056 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:7056 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:8051 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:8051 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:8056 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[32minfo[39m: [Peer.js]: Peer.const - url: grpc://202.77.131.29:8056 options  grpc.ssl_target_name_override=tlsca, grpc.default_authority=tlsca
+[34mdebug[39m: [crypto_ecdsa_aes]: Hash algorithm: SHA2, hash output size: 256
+[34mdebug[39m: [Chain.js]: Constructed Chain instance: name - mychannel, securityEnabled: true, TCert download batch size: 10, network mode: true
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7050
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7051
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7056
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7051
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:8051
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7051
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7056
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:8056
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7051
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:7056
+[34mdebug[39m: [Remote.js]: Remote.getUrl::grpc://202.77.131.29:8051
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore.js - constructor
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore -- getValue
+[32minfo[39m: [Client.js]: Failed to load user "admin" from local key value store
+[32minfo[39m: [Client.js]: Failed to load user "admin" from local key value store
+[34mdebug[39m: [Client.js]: Requested user "admin" not loaded from the state store on this Client instance: name - admin
+[34mdebug[39m: [crypto_ecdsa_aes]: Hash algorithm: SHA2, hash output size: 256
+[32minfo[39m: [FabricCAClientImpl.js]: Successfully constructed Fabric CA service client: endpoint - {"protocol":"http","hostname":"202.77.131.29","port":7054}
+[32minfo[39m: [FabricCAClientImpl.js]: Successfully constructed Fabric CA service client: endpoint - {"protocol":"http","hostname":"202.77.131.29","port":7054}
+[32minfo[39m: [crypto_ecdsa_aes]: This class requires a CryptoKeyStore to save keys, using the store: {"opts":{"path":"C:\\Users\\shiying1\\.hfc-key-store"}}
+[32minfo[39m: [crypto_ecdsa_aes]: This class requires a CryptoKeyStore to save keys, using the store: {"opts":{"path":"C:\\Users\\shiying1\\.hfc-key-store"}}
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore.js - constructor
+[34mdebug[39m: [crypto_ecdsa_aes]: _getKeyStore returning ks
+[34mdebug[39m: [crypto_ecdsa_aes]: generateKey, store.setValue
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param X: 4b4e326beddb58d8b44bcdead1d42ae5cc8a213478963adbfad30267c04d97d5
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param Y: c69fd7ead93cadc099a02ec084ed30858fde3f254b72b9984c75df6d05943927
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore -- setValue
+[34mdebug[39m: [invoke-chaincode]: Successfully enrolled user 'admin'
+[34mdebug[39m: [crypto_ecdsa_aes]: Hash algorithm: SHA2, hash output size: 256
+[34mdebug[39m: [msp.js]: const - start
+[32minfo[39m: [crypto_ecdsa_aes]: This class requires a CryptoKeyStore to save keys, using the store: {"opts":{"path":"C:\\Users\\shiying1\\.hfc-key-store"}}
+[32minfo[39m: [crypto_ecdsa_aes]: This class requires a CryptoKeyStore to save keys, using the store: {"opts":{"path":"C:\\Users\\shiying1\\.hfc-key-store"}}
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore.js - constructor
+[34mdebug[39m: [crypto_ecdsa_aes]: _getKeyStore returning ks
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param X: 4b4e326beddb58d8b44bcdead1d42ae5cc8a213478963adbfad30267c04d97d5
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param Y: c69fd7ead93cadc099a02ec084ed30858fde3f254b72b9984c75df6d05943927
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore -- setValue
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param X: 4b4e326beddb58d8b44bcdead1d42ae5cc8a213478963adbfad30267c04d97d5
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param Y: c69fd7ead93cadc099a02ec084ed30858fde3f254b72b9984c75df6d05943927
+[34mdebug[39m: [Client.js]: setUserContext, user: {"name":"admin","roles":null,"affiliation":"","enrollmentSecret":"","enrollment":{"signingIdentity":"b0da9c33ce27bc319007c848721a40901df85d97d43be518464d2a334e6f7628","identity":{"id":"testIdentity","certificate":"-----BEGIN CERTIFICATE-----\nMIIB3TCCAYSgAwIBAgIUXQYXC4wqLGsCTobCEmGx/+FRm9owCgYIKoZIzj0EAwIw\nYDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh\nbiBGcmFuY2lzY28xETAPBgNVBAoTCHBlZXJPcmcxMREwDwYDVQQDEwhwZWVyT3Jn\nMTAeFw0xNzA0MjgwNjU1MDBaFw0xODAzMjcxNDU1MDBaMBAxDjAMBgNVBAMTBWFk\nbWluMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAES04ya+3bWNi0S83q0dQq5cyK\nITR4ljrb+tMCZ8BNl9XGn9fq2TytwJmgLsCE7TCFj94/JUtyuZhMdd9tBZQ5J6Ns\nMGowDgYDVR0PAQH/BAQDAgIEMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLSM6nx5\nhH0pdljkq+/m21fp9PHHMCsGA1UdIwQkMCKAINils8rBuCH25LSHzq8f0jnNz8MQ\niUFQkIuQ8F6ReVVqMAoGCCqGSM49BAMCA0cAMEQCIAN4REXj0f22uZvvOLScv3B/\nC7N4ZJuUZTYncX69be4VAiAewgH/fshT90mjx3k7MILZT5ALRURiNzaQuzDUcGE1\ndA==\n-----END CERTIFICATE-----\n"}}}, skipPersistence: undefined
+[34mdebug[39m: [Client.js]: setUserContext begin promise to saveUserToStateStore
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param X: 4b4e326beddb58d8b44bcdead1d42ae5cc8a213478963adbfad30267c04d97d5
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param Y: c69fd7ead93cadc099a02ec084ed30858fde3f254b72b9984c75df6d05943927
+[34mdebug[39m: [Client.js]: saveUserToStateStore, userContext: {"name":"admin","roles":null,"affiliation":"","enrollmentSecret":"","enrollment":{"signingIdentity":"b0da9c33ce27bc319007c848721a40901df85d97d43be518464d2a334e6f7628","identity":{"id":"testIdentity","certificate":"-----BEGIN CERTIFICATE-----\nMIIB3TCCAYSgAwIBAgIUXQYXC4wqLGsCTobCEmGx/+FRm9owCgYIKoZIzj0EAwIw\nYDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh\nbiBGcmFuY2lzY28xETAPBgNVBAoTCHBlZXJPcmcxMREwDwYDVQQDEwhwZWVyT3Jn\nMTAeFw0xNzA0MjgwNjU1MDBaFw0xODAzMjcxNDU1MDBaMBAxDjAMBgNVBAMTBWFk\nbWluMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAES04ya+3bWNi0S83q0dQq5cyK\nITR4ljrb+tMCZ8BNl9XGn9fq2TytwJmgLsCE7TCFj94/JUtyuZhMdd9tBZQ5J6Ns\nMGowDgYDVR0PAQH/BAQDAgIEMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLSM6nx5\nhH0pdljkq+/m21fp9PHHMCsGA1UdIwQkMCKAINils8rBuCH25LSHzq8f0jnNz8MQ\niUFQkIuQ8F6ReVVqMAoGCCqGSM49BAMCA0cAMEQCIAN4REXj0f22uZvvOLScv3B/\nC7N4ZJuUZTYncX69be4VAiAewgH/fshT90mjx3k7MILZT5ALRURiNzaQuzDUcGE1\ndA==\n-----END CERTIFICATE-----\n"}}}
+[34mdebug[39m: [Client.js]: saveUserToStateStore, begin promise stateStore.setValue
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param X: 4b4e326beddb58d8b44bcdead1d42ae5cc8a213478963adbfad30267c04d97d5
+[34mdebug[39m: [ecdsa/key.js]: ECDSA curve param Y: c69fd7ead93cadc099a02ec084ed30858fde3f254b72b9984c75df6d05943927
+[34mdebug[39m: [FileKeyValueStore.js]: FileKeyValueStore -- setValue
+[34mdebug[39m: [Client.js]: saveUserToStateStore, store.setValue, result = {"name":"admin","roles":null,"affiliation":"","enrollmentSecret":"","enrollment":{"signingIdentity":"b0da9c33ce27bc319007c848721a40901df85d97d43be518464d2a334e6f7628","identity":{"id":"testIdentity","certificate":"-----BEGIN CERTIFICATE-----\nMIIB3TCCAYSgAwIBAgIUXQYXC4wqLGsCTobCEmGx/+FRm9owCgYIKoZIzj0EAwIw\nYDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh\nbiBGcmFuY2lzY28xETAPBgNVBAoTCHBlZXJPcmcxMREwDwYDVQQDEwhwZWVyT3Jn\nMTAeFw0xNzA0MjgwNjU1MDBaFw0xODAzMjcxNDU1MDBaMBAxDjAMBgNVBAMTBWFk\nbWluMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAES04ya+3bWNi0S83q0dQq5cyK\nITR4ljrb+tMCZ8BNl9XGn9fq2TytwJmgLsCE7TCFj94/JUtyuZhMdd9tBZQ5J6Ns\nMGowDgYDVR0PAQH/BAQDAgIEMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLSM6nx5\nhH0pdljkq+/m21fp9PHHMCsGA1UdIwQkMCKAINils8rBuCH25LSHzq8f0jnNz8MQ\niUFQkIuQ8F6ReVVqMAoGCCqGSM49BAMCA0cAMEQCIAN4REXj0f22uZvvOLScv3B/\nC7N4ZJuUZTYncX69be4VAiAewgH/fshT90mjx3k7MILZT5ALRURiNzaQuzDUcGE1\ndA==\n-----END CERTIFICATE-----\n"}}}
+[32minfo[39m: [invoke-chaincode]: Successfully enrolled user 'admin'
+[32minfo[39m: [invoke-chaincode]: Successfully enrolled user 'admin'
+[34mdebug[39m: [Chain.js]: buildTransactionID - start
+[34mdebug[39m: [Chain.js]: buildTransactionID - transaction_id 27f3ad0eaa8aecc28ff7cdd805c96666d72c695190156e7fff7fd9aae5ed0b89
+[34mdebug[39m: [invoke-chaincode]: Sending instantiate proposal "{"chainId":"mychannel","chaincodeId":"trace3","chaincodeVersion":"v0","fcn":"init","args":["Sku","Sku654321","TraceInfo","this is genesis block"],"txId":"27f3ad0eaa8aecc28ff7cdd805c96666d72c695190156e7fff7fd9aae5ed0b89","nonce":{"type":"Buffer","data":[87,234,179,170,36,171,54,177,187,180,215,225,244,41,40,62,226,56,236,36,204,96,53,142]},"chaincodePath":"github.com/trace"}"
+[34mdebug[39m: [Chain.js]: getPeers - list size: 4.
+[34mdebug[39m: [Chain.js]: buildChannelHeader - type 3 chain_id mychannel tx_id NaN epoch % chaincode_id null lccc
+[34mdebug[39m: [Chain.js]: buildCurrentTimestamp - building
+[34mdebug[39m: [crypto_ecdsa_aes]: ecdsa signature:  negative=0, words=[4471113, 40093378, 7561223, 60195104, 4608692, 60633027, 31490590, 33701368, 35390600, 1736066, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], length=10, red=null, negative=0, words=[63596607, 15479228, 56615155, 32009488, 19412680, 50209813, 4717154, 40501835, 18163266, 517466], length=10, red=null, recoveryParam=0
+[34mdebug[39m: [Chain.js]: _signProposal - signature::{"type":"Buffer","data":[48,68,2,32,105,246,10,28,4,136,128,143,126,30,8,33,238,116,191,12,70,82,180,229,160,72,7,54,0,121,143,27,8,68,57,73,2,32,31,149,105,21,38,66,154,128,146,196,127,166,43,248,144,85,40,54,200,122,27,68,53,254,15,51,176,198,243,202,104,63]}
+[34mdebug[39m: [Peer.js]: Peer.sendProposal - Start
+[34mdebug[39m: [Peer.js]: Peer.sendProposal - Start
+[34mdebug[39m: [Peer.js]: Peer.sendProposal - Start
+[34mdebug[39m: [Peer.js]: Peer.sendProposal - Start
+[34mdebug[39m: [Peer.js]: Received proposal response from peer "grpc://202.77.131.29:8056": status - 200
+[34mdebug[39m: [Peer.js]: Received proposal response from peer "grpc://202.77.131.29:8051": status - 200
+[34mdebug[39m: [Peer.js]: Received proposal response from peer "grpc://202.77.131.29:7051": status - 200
+[34mdebug[39m: [Peer.js]: Received proposal response from peer "grpc://202.77.131.29:7056": status - 200
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is fulfilled: [object Object]
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is fulfilled: [object Object]
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is fulfilled: [object Object]
+[34mdebug[39m: [Chain.js]: Chain-sendPeersProposal - Promise is fulfilled: [object Object]
+[34mdebug[39m: [invoke-chaincode]: Instantiate transaction proposal was good
+[34mdebug[39m: [invoke-chaincode]: Instantiate transaction proposal was good
+[34mdebug[39m: [invoke-chaincode]: Instantiate transaction proposal was good
+[34mdebug[39m: [invoke-chaincode]: Instantiate transaction proposal was good
+[34mdebug[39m: [invoke-chaincode]: Successfully sent Instantiate transaction Proposal and received ProposalResponse: Status - 200
+[34mdebug[39m: [invoke-chaincode]: Successfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "", endorsement signature: 0E!
